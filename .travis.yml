@@ -14,3 +14,4 @@ deploy:
   api_key: $TOKEN
   file: "feeds.opml"
   skip_cleanup: true
+  overwrite: true
