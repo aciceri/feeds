@@ -1,0 +1,16 @@
+language: nix
+nix: 2.3.6
+script:
+  - nix-shell --pure --command "deploy"
+cache:
+  directories:
+  - "$HOME/nix.store"
+before_deploy:
+  - git config --local user.name "aciceri"
+  - git config --local user.email "andrea.ciceri@autistici.org"
+  - git tag "$(date +%Y%m%d)"
+deploy:
+  provider: releases
+  api_key: $TOKEN
+  file: "feeds.opml"
+  skip_cleanup: true
