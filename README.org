@@ -1,1 +1,18 @@
-Test
+#+html: <img alt="Travis (.org)" src="https://img.shields.io/travis/aciceri/feeds">
+
+* My feeds
+This repo contains my personal RSS/Atom feeds and a minimal
+environment for the automatic deploy to an [[https://en.wikipedia.org/wiki/OPML][OPML file]].
+You can download it in the releases page of this repository i.e. [[https://github.com/aciceri/feeds/releases][here]].
+
+I use [[https://github.com/skeeto/elfeed][elfeed]] and [[https://github.com/remyhonig/elfeed-org][elfeed-org]] to manage my collection and to export the
+OPML file.
+The [[feeds.org]] file contains hierarchically the different feeds.
+
+* Automatic deploying
+The automatic deploying is done by [[https://travis-ci.org/github/aciceri/feeds/][travis]] which install an Emacs
+version with the last versions of elfeed and elfeed-org packages from
+MELPA using a Nix derivation that can be found in [[default.nix]] and then
+runs the [[export.el]] script.
+Then travis is delegated to tag the commit and release the OPML file.
+
