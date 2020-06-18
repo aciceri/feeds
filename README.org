@@ -10,10 +10,10 @@ OPML file.
 The [[feeds.org]] file contains hierarchically the different feeds.
 
 * Automatic deploying
-The automatic deploying is done by [[https://travis-ci.org/github/aciceri/feeds/][travis]] which install an Emacs
-version with the last versions of elfeed and elfeed-org packages from
-MELPA using a Nix derivation that can be found in [[default.nix]] and then
-runs the [[export.el]] script.
+The automatic deploying is done by [[https://travis-ci.org/github/aciceri/feeds/][travis]] which installs a custom
+Emacs with the last versions of elfeed and elfeed-org packages from
+MELPA using a Nix derivation that can be found in [[default.nix]],
+eventually it runs the [[export.el]] script.
 Then travis is delegated to tag the commit and releases the OPML file
 to Github.
 
