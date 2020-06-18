@@ -15,3 +15,6 @@ deploy:
   file: "feeds.opml"
   skip_cleanup: true
   overwrite: true
+branches:
+  only:
+    - master
