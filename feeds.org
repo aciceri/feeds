@@ -4,5 +4,9 @@
 * YouTube                                                            :elfeed:
 ** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg][Bisqwit]]
 
-* YouTube                                                            :elfeed:
+* Reddit                                                             :elfeed:
 ** [[http://www.reddit.com/r/emacs/.rss][/r/emacs]]
+* Blogs                                                              :elfeed:
+** [[https://weekly.nixos.org/feeds/all.rss.xml][NixOS Weekly]]
+* News                                                               :elfeed:
+** [[https://www.ansa.it/sito/ansait_rss.xml][ANSA]]
