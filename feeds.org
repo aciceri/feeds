@@ -13,6 +13,6 @@
 ** [[http://xahlee.info/comp/blog.xml][Xah programming blog]]
 ** [[http://ergoemacs.org/emacs/blog.xml][Xah Emacs blog]]
 ** [[http://xahlee.info/kbd/keyboard_blog.xml][Xah keyboard blog]]
+** [[https://news.ycombinator.com/rss][Hacker News]]
 * News                                                               :elfeed:
 ** [[https://www.ansa.it/sito/ansait_rss.xml][ANSA]]
-   
