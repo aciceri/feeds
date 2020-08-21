@@ -1,5 +1,6 @@
 * Twitter                                                            :elfeed:
 ** [[https://nitter.net/melpa_emacs/rss][@melpa_emacs]]
+** [[https://nitter.net/kittegory/rss][@kittegory]]
 
 * YouTube                                                            :elfeed:
 ** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg][Bisqwit]]
