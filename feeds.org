@@ -8,5 +8,10 @@
 ** [[http://www.reddit.com/r/emacs/.rss][/r/emacs]]
 * Blogs                                                              :elfeed:
 ** [[https://weekly.nixos.org/feeds/all.rss.xml][NixOS Weekly]]
+** [[https://hackaday.com/blog/feed/][Hackaday]]
+** [[https://bartoszmilewski.com/feed/][Bartosz Milewski's Programming Cafe]]
+** [[http://xahlee.info/comp/blog.xml][Xah programming blog]]
+** [[http://ergoemacs.org/emacs/blog.xml][Xah Emacs blog]]
+** [[http://xahlee.info/kbd/keyboard_blog.xml][Xah keyboard blog]]
 * News                                                               :elfeed:
 ** [[https://www.ansa.it/sito/ansait_rss.xml][ANSA]]
