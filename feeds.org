@@ -4,7 +4,6 @@
 
 * YouTube                                                            :elfeed:
 ** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg][Bisqwit]]
-
 * Reddit                                                             :elfeed:
 ** [[http://www.reddit.com/r/emacs/.rss][/r/emacs]]
 * Blogs                                                              :elfeed:
@@ -16,3 +15,4 @@
 ** [[http://xahlee.info/kbd/keyboard_blog.xml][Xah keyboard blog]]
 * News                                                               :elfeed:
 ** [[https://www.ansa.it/sito/ansait_rss.xml][ANSA]]
+   
